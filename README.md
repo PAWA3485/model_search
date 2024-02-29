@@ -313,6 +313,13 @@ Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 
 
+<<<<<<< HEAD
 custom1
 custom2
 custom3
+=======
+
+edit1
+edit2
+edit3
+>>>>>>> br1
